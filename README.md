@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src=https://github.com/TchenssITech/Project2_Flixter2/blob/daf78afb0bdf2a34cfbd2394ee079cffa5e42409/Flixter2_tchenssitech.gif width=250><br>
 
 ### Notes
 
