@@ -21,6 +21,8 @@
 
 <img src=https://github.com/TchenssITech/Project2_Flixter2/blob/daf78afb0bdf2a34cfbd2394ee079cffa5e42409/Flixter2_tchenssitech.gif width=250><br>
 
+GIF created with LiceCap.
+
 ### Notes
 
 Describe any challenges encountered while building the app.
